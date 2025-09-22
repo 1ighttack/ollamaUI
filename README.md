@@ -1,5 +1,7 @@
 # ollamaUI
-**解决ollama部署之后，在外部使用没有交互窗口的问题，利用ollama提供的api，做的一个简单的交互程序**
+**解决ollama运行之后，在开启了外部访问，使用过程中没有交互窗口的问题，利用ollama提供的api，做的一个简单的交互程序**
+<img width="1368" height="383" alt="image" src="https://github.com/user-attachments/assets/1f2c2446-cf5f-4e22-881c-fa95b284cfdf" />
+
 
 - 需要将mode字段的模型替换为自己的，其他接口没有测试过是否可以使用。
 
