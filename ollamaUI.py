@@ -209,7 +209,7 @@ class OllamaChatWidget(QWidget):
             "stream": False
         }
         headers = {"Content-Type": "application/json"}
-        resp = requests.post(url, data=json.dumps(payload), headers=headers, timeout=60)
+        resp = requests.post(url, data=json.dumps(payload), headers=headers, timeout=None)
         if resp.status_code == 200:
             return resp.json()
         else:
