@@ -12,3 +12,12 @@
 - 使用界面 ~
 
 <img width="1924" height="1310" alt="2519548a7c9fb450ad50b90a65643b8" src="https://github.com/user-attachments/assets/c4e65895-7ae5-4205-9075-3d28b0438a37" />
+
+- 运行环境
+python3
+模块：PyQt5
+
+- 安装模块
+```
+python -m pip install PyQt5 -i https://pypi.tuna.tsinghua.edu.cn/simple/
+```
